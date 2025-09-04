@@ -15,7 +15,7 @@ This project demonstrates clean architecture, separation of concerns, and testab
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/ridefinder.git
+   git clone https://github.com/corey2122/ridefinder.git
    cd ridefinder
    ```
 2. Open `RideFinder.xcodeproj` in Xcode.
