@@ -18,7 +18,7 @@ This project demonstrates clean architecture, separation of concerns, and testab
    git clone https://github.com/corey2122/ridefinder.git
    cd ridefinder
    ```
-2. Open `RideFinder.xcodeproj` in Xcode.
+2. Open `RideFinderApp.xcodeproj` in Xcode.
 3. Select an iOS Simulator (e.g., iPhone 15).
 4. Press **⌘R** to build and run.
 
@@ -28,7 +28,7 @@ Run tests in Xcode:
 
 Or via command line:
 ```bash
-xcodebuild   -project RideFinder.xcodeproj   -scheme RideFinder   -destination 'platform=iOS Simulator,name=iPhone 15'   test
+xcodebuild   -project RideFinderApp.xcodeproj   -scheme RideFinder   -destination 'platform=iOS Simulator,name=iPhone 15'   test
 ```
 
 ---
